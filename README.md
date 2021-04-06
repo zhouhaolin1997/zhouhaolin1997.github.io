@@ -1,4 +1,4 @@
-## Welcome to [Link] https://zhouhaolin1997.github.io
+## Welcome to https://zhouhaolin1997.github.io
 
 This is my personal website. 
 
