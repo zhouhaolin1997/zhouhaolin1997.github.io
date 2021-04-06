@@ -2,9 +2,9 @@
 
 This is my personal website. 
 
-### Markdown
+### EDUCATION
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Shanghai Jiao Tong University
 
 ```markdown
 Syntax highlighted code block
