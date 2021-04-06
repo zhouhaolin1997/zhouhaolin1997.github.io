@@ -2,15 +2,15 @@
 
 This is my personal website. 
 
-### EDUCATION
+# EDUCATION
 
 ## Shanghai Jiao Tong University                                Sep. 2020 - to present
 
-# Master student in Electronic & Communication Engineering 
+### Master student in Electronic & Communication Engineering 
 
-## Shanghai Jiao Tong University                                Sep. 2016 - Jul. 2020
+# Shanghai Jiao Tong University                                Sep. 2016 - Jul. 2020
 
-# Bachelor student in Information Engineering 
+## Bachelor student in Information Engineering 
 
 ```markdown
 Syntax highlighted code block
