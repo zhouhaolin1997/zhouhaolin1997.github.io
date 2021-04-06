@@ -35,7 +35,9 @@ The goal of this project is to implement Top-K recommendation by redesigning the
  
 ## ACADEMIC HONORS
 Shanghai Jiao Tong University B-class scholarship  &emsp;&emsp; Dec. 2019
+
 Shanghai Jiao Tong University Excellent Student  &emsp;&emsp; Nov. 2019
+
 2018 Mathematical Contest In Modeling Meritorious Winner  &emsp;&emsp; Apr. 2018
 
 ## SKILLS
