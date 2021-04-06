@@ -14,7 +14,7 @@ Bachelor student in Information Engineering
 
 ## PROJECT EXPERIENCE
 
-### Shanghai Jiao Tong University &emsp;&emsp; Sep. 2020 - to present
+### MAKE: Multi-level Aggregated Knowledge-Based Embedding for Recommender Systems (SIGIR-2021 Under Review)
 
 Master student in Electronic & Communication Engineering 
 
