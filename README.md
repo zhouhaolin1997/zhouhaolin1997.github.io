@@ -26,3 +26,5 @@ The goal of this project is to reasonably use the topological network between da
 
 The goal of this project is to implement Top-K recommendation by redesigning the aggregation function of nodes on the bipartite graph based on low-pass filtering characteristics of GNN. 
 
+## Intern Experience
+
