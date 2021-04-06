@@ -34,11 +34,11 @@ The goal of this project is to implement Top-K recommendation by redesigning the
  Optimized internal customer management system based on influence maximization, and implemented CELF (Cost Effective Lazy Forward) algorithm on customer relationship dataset. 
  
 ## ACADEMIC HONORS
-Shanghai Jiao Tong University B-class scholarship  &emsp;&emsp; Dec. 2019
+Shanghai Jiao Tong University B-class scholarship  <p align="right">Dec. 2019</p>Dec. 2019
 
-Shanghai Jiao Tong University Excellent Student  &emsp;&emsp; Nov. 2019
+Shanghai Jiao Tong University Excellent Student  <p align="right">Nov. 2019</p>Dec. 2019
 
-2018 Mathematical Contest In Modeling Meritorious Winner  &emsp;&emsp; Apr. 2018
+2018 Mathematical Contest In Modeling Meritorious Winner  <p align="right">Apr. 2018</p>Dec. 2019
 
 ## SKILLS
 Skilled in C++, Python. Familiar with data structures and algorithms and had good programming style.
