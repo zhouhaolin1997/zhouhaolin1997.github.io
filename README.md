@@ -14,11 +14,9 @@ Bachelor student in Information Engineering
 
 ## PROJECT EXPERIENCE
 
-### MAKE: Multi-level Aggregated Knowledge-Based Embedding for Recommender Systems (SIGIR-2021 Under Review) &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp; Apr. 2020 -- Mar. 2021
+### MAKE: Multi-level Aggregated Knowledge-Based Embedding for Recommender Systems (SIGIR-2021 Under Review) 
+-List 
+1. c
+2. f
 
-Master student in Electronic & Communication Engineering 
-
-### Shanghai Jiao Tong University &emsp;&emsp; Sep. 2016 - Jul. 2020
-
-Bachelor student in Information Engineering 
 
