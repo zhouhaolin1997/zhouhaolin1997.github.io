@@ -18,4 +18,11 @@ Bachelor student in Information Engineering
 
 The goal of this project is to implement Top-K recommendation based on knowledge graph and bipartite graph.
 
+### Scheduling Jobs across Geo-Distributed Data Centers 
+
+The goal of this project is to reasonably use the topological network between data centers and make full use of bandwidth to minimize data transmission time.
+
+### Lightweight Recommender System based on Graph Neural Network
+
+The goal of this project is to implement Top-K recommendation by redesigning the aggregation function of nodes on the bipartite graph based on low-pass filtering characteristics of GNN. 
 
