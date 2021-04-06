@@ -4,11 +4,11 @@ This is my personal website.
 
 ## EDUCATION
 
-### Shanghai Jiao Tong University <p align="right">Sep. 2020 - to present</p>
+### Shanghai Jiao Tong University  <p align="right">Sep. 2020 - to present</p>
 
 Master student in Electronic & Communication Engineering 
 
-### Shanghai Jiao Tong University <p align="right">Sep. 2016 - Jul. 2020</p> 
+### Shanghai Jiao Tong University  <p align="right">Sep. 2016 - Jul. 2020</p> 
 
 Bachelor student in Information Engineering 
 
@@ -28,17 +28,17 @@ The goal of this project is to implement Top-K recommendation by redesigning the
 
 ## INTERN EXPERIENCE
 
-### Vanke Information Center (Shanghai) Co.,Ltd <p align="right">Jul. 2019 -- Aug. 2019</p>
+### Vanke Information Center (Shanghai) Co.,Ltd  <p align="right">Jul. 2019 -- Aug. 2019</p>
  Studied investment strategy based on MetroData, and predicted the trend of regional housing prices through a decision tree model. 
  
  Optimized internal customer management system based on influence maximization, and implemented CELF (Cost Effective Lazy Forward) algorithm on customer relationship dataset. 
  
 ## ACADEMIC HONORS
-Shanghai Jiao Tong University B-class scholarship <p align="right">Dec. 2019</p>
+Shanghai Jiao Tong University B-class scholarship  <p align="right">Dec. 2019</p>
 
-Shanghai Jiao Tong University Excellent Student <p align="right">Nov. 2019</p>
+Shanghai Jiao Tong University Excellent Student  <p align="right">Nov. 2019</p>
 
-2018 Mathematical Contest In Modeling Meritorious Winner <p align="right">Apr. 2018</p>
+2018 Mathematical Contest In Modeling Meritorious Winner  <p align="right">Apr. 2018</p>
 
 ## SKILLS
 Skilled in C++, Python. Familiar with data structures and algorithms and had good programming style.
