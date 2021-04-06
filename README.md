@@ -31,5 +31,5 @@ The goal of this project is to implement Top-K recommendation by redesigning the
 ### Vanke Information Center (Shanghai) Co.,Ltd &emsp;&emsp; Jul. 2019 -- Aug. 2019
 
 ## ACADEMIC HONORS
-Shanghai Jiao Tong University \emph{B-class} scholarship
+Shanghai Jiao Tong University B-class scholarship
 
