@@ -28,7 +28,7 @@ The goal of this project is to implement Top-K recommendation by redesigning the
 
 ## INTERN EXPERIENCE
 
-### Vanke Information Center (Shanghai) Co.,Ltd <p align="right">Jul. 2019 -- Aug. 2019</p>
+### Vanke Information Center (Shanghai) Co.,Ltd <p align="right">Jul. 2019 -- Aug. 2019
  Studied investment strategy based on MetroData, and predicted the trend of regional housing prices through a decision tree model. 
  
  Optimized internal customer management system based on influence maximization, and implemented CELF (Cost Effective Lazy Forward) algorithm on customer relationship dataset. 
