@@ -15,8 +15,7 @@ Bachelor student in Information Engineering
 ## PROJECT EXPERIENCE
 
 ### MAKE: Multi-level Aggregated Knowledge-Based Embedding for Recommender Systems (SIGIR-2021 Under Review) 
--List 
-1. c
-2. f
+
+The goal of this project is to implement Top-K recommendation based on knowledge graph and bipartite graph.
 
 
