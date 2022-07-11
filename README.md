@@ -14,7 +14,7 @@ Bachelor student in Information Engineering
 
 ## INTERN EXPERIENCE
 
-### Tencent~Data Platform~/Algorithm Engineer (Ads)  &emsp;&emsp; Aug. 2021 -- May. 2022
+### Tencent/Data Platform/Algorithm Engineer (Ads)  &emsp;&emsp; Aug. 2021 -- May. 2022
  User interest modeling. Use information from different domains to model user behavior and improve the accuracy of click prediction model. 
  
  Delayed feedback modeling. Adaptively adjust the elapsed time of click samples to improve the accuracy of conversion rate prediction. 
