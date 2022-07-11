@@ -21,17 +21,20 @@ Bachelor student in Information Engineering
 
 ## PROJECT EXPERIENCE
 
-### MAKE: Multi-level Aggregated Knowledge-Based Embedding for Recommender Systems (SIGIR-2021 Under Review) 
+### Temporal User Interest Model 
+The goal is to consider position information in both attention and representation module while modeling user interest. 
 
-The goal of this project is to implement Top-K recommendation based on knowledge graph and bipartite graph.
+### Delayed Feedback Modeling based on Reinforcement Learning 
 
-### Scheduling Jobs across Geo-Distributed Data Centers 
+The goal is to improve the accuracy of conversion rate prediction by modeling the elapsed time.
 
-The goal of this project is to reasonably use the topological network between data centers and make full use of bandwidth to minimize data transmission time.
+### Real-time Bidding based on Multi-Objective Actor-Critics (ECML-PKDD 2022, co-first author)
 
-### Lightweight Recommender System based on Graph Neural Network
+The goal is to design a bidding model based on reinforcement learning in display advertising.
 
-The goal of this project is to implement Top-K recommendation by redesigning the aggregation function of nodes on the bipartite graph based on low-pass filtering characteristics of GNN. 
+### Multi-level Disentangled Knowledge-Based Embedding for Recommender Systems (DASFAA 2022, first author)
+
+The goal is to implement Top-K recommendation based on knowledge graph and bipartite graph
 
  
 ## ACADEMIC HONORS
@@ -44,7 +47,7 @@ Shanghai Jiao Tong University Excellent Student  &emsp;&emsp; Nov. 2019
 ## SKILLS
 Skilled in C++, Python. Familiar with data structures and algorithms and had good programming style.
 
-Strong theoretic knowledge on data mining and machine learning.
+Familiar with knowledge on data mining and machine learning.
 
 Experienced in development of machine learning algorithms.
 
