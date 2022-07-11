@@ -12,6 +12,13 @@ Master student in Electronic & Communication Engineering
 
 Bachelor student in Information Engineering 
 
+## INTERN EXPERIENCE
+
+### Tencent~Data Platform~/Algorithm Engineer (Ads)  &emsp;&emsp; Aug. 2021 -- May. 2022
+ User interest modeling. Use information from different domains to model user behavior and improve the accuracy of click prediction model. 
+ 
+ Delayed feedback modeling. Adaptively adjust the elapsed time of click samples to improve the accuracy of conversion rate prediction. 
+
 ## PROJECT EXPERIENCE
 
 ### MAKE: Multi-level Aggregated Knowledge-Based Embedding for Recommender Systems (SIGIR-2021 Under Review) 
@@ -26,12 +33,6 @@ The goal of this project is to reasonably use the topological network between da
 
 The goal of this project is to implement Top-K recommendation by redesigning the aggregation function of nodes on the bipartite graph based on low-pass filtering characteristics of GNN. 
 
-## INTERN EXPERIENCE
-
-### Vanke Information Center (Shanghai) Co.,Ltd  &emsp;&emsp; Jul. 2019 -- Aug. 2019
- Studied investment strategy based on MetroData, and predicted the trend of regional housing prices through a decision tree model. 
- 
- Optimized internal customer management system based on influence maximization, and implemented CELF (Cost Effective Lazy Forward) algorithm on customer relationship dataset. 
  
 ## ACADEMIC HONORS
 Shanghai Jiao Tong University B-class scholarship  &emsp;&emsp; Dec. 2019
