@@ -28,11 +28,11 @@ The goal is to consider position information in both attention and representatio
 
 The goal is to improve the accuracy of conversion rate prediction by modeling the elapsed time.
 
-### Real-time Bidding based on Multi-Objective Actor-Critics (ECML-PKDD 2022, co-first author)
+### Real-time Bidding based on Multi-Objective Actor-Critics (ECML-PKDD 2022, co-first author) (paper, code)
 
 The goal is to design a bidding model based on reinforcement learning in display advertising.
 
-### Multi-level Disentangled Knowledge-Based Embedding for Recommender Systems (DASFAA 2022, first author)
+### Multi-level Disentangled Knowledge-Based Embedding for Recommender Systems (DASFAA 2022, first author) (paper, code)
 
 The goal is to implement Top-K recommendation based on knowledge graph and bipartite graph
 
