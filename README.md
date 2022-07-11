@@ -21,7 +21,7 @@ Bachelor student in Information Engineering
 
 ## PROJECT EXPERIENCE
 
-### Temporal User Interest Model 
+### Temporal User Interest Model (NIPS 2022, under review)
 The goal is to consider position information in both attention and representation module while modeling user interest. 
 
 ### Delayed Feedback Modeling based on Reinforcement Learning 
