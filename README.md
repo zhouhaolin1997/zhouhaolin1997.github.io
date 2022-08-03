@@ -21,7 +21,7 @@ Bachelor student in Information Engineering
 
 ## PROJECT EXPERIENCE
 
-### Target Attention Revisited (NIPS 2022, under review)
+### Target Attention Revisited (WSDM 2023, under review)
 The goal is to revisit the commonly used DIN (deep interest network) model. 
 
 ### Delayed Feedback Modeling based on Reinforcement Learning 
